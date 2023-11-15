@@ -4,7 +4,7 @@ Welcome to LLM-Apps, a collection of applications which leverage the power of th
 
 ## 1. Research Agent (research_agent.py)
 
-The Research Agent is a powerful tool for conducting research, utilizing OpenAI API, Langchain, and Chainlit. It makes use of tools such as "arxiv", "human", and "llm-math" to assist you in your research endeavors. Acting as a virtual research assistant, this app simplifies the process of gathering information from diverse sources.
+The Research Agent is a powerful tool for conducting research, utilizing OpenAI API, Langchain, and Chainlit. It makes use of tools such as "arxiv" and "llm-math" to assist you in your research endeavors. Acting as a virtual research assistant, this app simplifies the process of gathering information from diverse sources.
 
 ## 2. YouTube Search Agent (my_youtube_search.py)
 
