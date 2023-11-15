@@ -1,6 +1,6 @@
 # LLM-Apps
 
-Welcome to LLM-Apps, a collection of applications created for learning purposes. These applications leverage the power of the OpenAI language model, Langchain, Chainlit, and other tools for various tasks. Below, you'll find a brief overview of each app:
+Welcome to LLM-Apps, a collection of applications which leverage the power of the OpenAI language model, Langchain, Chainlit, and other tools for various tasks. Below, you'll find a brief overview of each app:
 
 ## 1. Research Agent (research_agent.py)
 
