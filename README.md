@@ -4,7 +4,7 @@ Welcome to LLM-Apps, a collection of applications which leverage the power of th
 
 ## 1. Research Agent (research_agent.py)
 
-The Research Agent is a powerful tool for conducting research, utilizing OpenAI API, Langchain, and Chainlit. It makes use of tools such as "arxiv" and "llm-math" to assist you in your research endeavors. Acting as a virtual research assistant, this app simplifies the process of gathering information from diverse sources.
+The Research Agent is an app for conducting research, utilizing OpenAI API, Langchain, and Chainlit. It makes use of tools such as "arxiv" and "llm-math" to assist you in your research endeavors. Acting as a virtual research assistant, this app simplifies the process of gathering information from diverse sources.
 
 ## 2. YouTube Search Agent (my_youtube_search.py)
 
@@ -12,7 +12,7 @@ The YouTube Search Agent is designed to simplify your video discovery process. P
 
 ## 3. Document Question Answering (documents_qa.py)
 
-The Document Question Answering app is a handy tool for interacting with textual content. It leverages the OpenAI language model, Langchain RetrievalQAWithSourcesChain, Chainlit, and the Chroma vector store for efficient document retrieval. This app provides an interactive environment where users can upload files, ask questions related to the content of those files, and receive detailed answers along with source information.
+The Document Question Answering is an app for interacting with textual content. It leverages the OpenAI language model, Langchain RetrievalQAWithSourcesChain, Chainlit, and the Chroma vector store for efficient document retrieval. This app provides an interactive environment where users can upload files, ask questions related to the content of those files, and receive detailed answers along with source information.
 
 ## Installation
 
