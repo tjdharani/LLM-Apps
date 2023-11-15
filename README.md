@@ -72,7 +72,7 @@ Now that you have the repository installed and the OpenAI API key set up, you ca
 Run the following command to start the Research Agent:
 
 ```bash
-python research_agent.py
+chainlit run research_agent.py
 ```
 
 ### YouTube Search Agent (my_youtube_search.py)
@@ -88,7 +88,7 @@ python my_youtube_search.py
 To use the Document Question Answering app, run:
 
 ```bash
-python documents_qa.py
+chainlit run documents_qa.py
 ```
 
 Feel free to experiment with different inputs and explore the capabilities of each application. If you encounter any issues or have suggestions, don't hesitate to reach out.
